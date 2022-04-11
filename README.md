@@ -99,6 +99,16 @@ if __name__ == '__main__':
 
 ```
 
+## Screenshots
+
+Example script ```main.py```
+
+![main.py](screenshots/main.png)
+
+Example script ```scave.py```
+
+![scave.py](screenshots/scave.png)
+
 ## To-Do
 
  - Add TensorFlow simplfied classes for Tinder
