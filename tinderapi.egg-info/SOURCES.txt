@@ -1,0 +1,12 @@
+README.md
+setup.py
+tinderapi/TinderSQLite.py
+tinderapi/__init__.py
+tinderapi/scave.py
+tinderapi/telegram.py
+tinderapi/tinder.py
+tinderapi.egg-info/PKG-INFO
+tinderapi.egg-info/SOURCES.txt
+tinderapi.egg-info/dependency_links.txt
+tinderapi.egg-info/requires.txt
+tinderapi.egg-info/top_level.txt
