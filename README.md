@@ -49,8 +49,8 @@ Change Tinder X-AUTH-TOKEN and create a Telegram Bot to receive LIVE Update in `
 {
   "tinder_auth": "cb10ca8b-xxxx-xxxx-xxxx",
   "telegram_bot_access_token": "51xxx83571:xxxxxxxxxxxxxxx",
-  "chat_id": 543xxxxxxx,
-  "group_id": -718xxxxxx
+  "chat_id": 543000000,
+  "group_id": -718000000
 }
 ```
 
