@@ -4,7 +4,7 @@ Tinder API is a library that helps you deal with tinder without using the browse
 
 ## Installation
 
-Use the package manager [tinderapi](https://pypi.org/project/tinderapi/) to install foobar.
+Use the package manager pip to install [tinderapi](https://pypi.org/project/tinderapi/).
 
 ```bash
 pip install tinderapi
